@@ -1,3 +1,8 @@
+# Changes
+
++ Autoscroll in Messages
+
+
 # OctoPrint Klipper Plugin
 
 This plugin assists in managing and monitoring the [Klipper](https://github.com/KevinOConnor/klipper) 3D printer firmware.
